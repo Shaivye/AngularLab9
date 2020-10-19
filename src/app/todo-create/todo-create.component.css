@@ -1,0 +1,31 @@
+.new_entry_form {
+    margin-bottom: 20px;
+    background-color: yellow;
+   
+    
+}
+
+.new_entry_form mat-form-field {
+    
+    margin-left: 60px;
+    padding-right: 50px;
+    margin-right: 120px;
+    justify-content: center;
+    display:inline-flex;
+    flex-wrap: wrap;
+    font-size: 20px;
+    
+    }
+    .mat-warn{
+    
+    height: 80px;
+    width: 80px;
+    background-color: #FF69B4;
+    margin: 0;
+    border-radius: 50%;
+    font-size: 60px;
+    margin-left: 46%;
+    margin-right: 10%;
+
+}
+

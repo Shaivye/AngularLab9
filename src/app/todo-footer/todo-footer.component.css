@@ -1,0 +1,20 @@
+
+
+.box {
+    max-width: 400px;
+    margin: 0px auto -1%;
+    background:  #FEE715FF;
+    border-radius: 5px;
+    }
+
+.footerBox {
+    margin: auto;
+}
+
+p {
+    margin: 0;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 200;
+    color:rgb(99, 25, 37);
+}
